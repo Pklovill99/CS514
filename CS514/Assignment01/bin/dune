@@ -1,0 +1,6 @@
+(executable
+ (public_name Assignment01)
+ (name main)
+ (libraries Assignment01))
+
+(ocamllex lexer)

@@ -1,0 +1,16 @@
+# dune build --watch
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/parker/.cache/dune/db
+# Workspace root: /Users/parker/CS514/Assignment01
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/parker/.opam/CS514/bin/ocamlc.opt -config > /var/folders/qh/0x555zds6jd3p1pp4qm4s6z00000gn/T/dune_65a556_output
