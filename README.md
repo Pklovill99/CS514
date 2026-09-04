@@ -1,3 +1,2 @@
-# CS372Lab.-Lovill-
-# CS372Lab.Lovill
-# CS372Lab.Lovill
+Assignment01 document in the Documents folder
+Code in the bin Folder
