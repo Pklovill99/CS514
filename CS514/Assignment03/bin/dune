@@ -1,0 +1,3 @@
+(executable
+ (name expr)
+ (libraries lambda_expression))
